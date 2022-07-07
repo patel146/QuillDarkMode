@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+/* Choose this for Editor Dark Theme */
+@import './quill.smoke.css';
+
+/* Or choose this for standard Editor Light Theme */
+/* @import '~quill/dist/quill.snow.css'; */
+
+/* Bootstrap Dark Mode (comment out if you don't want Dark Mode)*/
+@import '~@forevolve/bootstrap-dark/dist/css/bootstrap-dark.css';
+
