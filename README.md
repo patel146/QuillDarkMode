@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
 
+## Result
+
+![Output image](https://github.com/patel146/QuillDarkMode/blob/master/_Repo_Output_Demo.png)
+
 ## Usage
 
 1. Clone this repo
